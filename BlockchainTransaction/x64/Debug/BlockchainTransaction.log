@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Working\BlockchainTransaction\BlockchainTransaction\src\wallet\wallet.hpp(19,19): warning C4099: 'Crypto::Transaction': type name first seen using 'struct' now seen using 'class'
+D:\Working\BlockchainTransaction\BlockchainTransaction\src\blockchain\blockchain.hpp(11,9): message : see declaration of 'Crypto::Transaction'
+  BlockchainTransaction.vcxproj -> D:\Working\BlockchainTransaction\x64\Debug\BlockchainTransaction.exe
